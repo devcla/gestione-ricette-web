@@ -1,0 +1,12 @@
+{
+    "Gelato": {
+        "nome": "Gelato",
+        "ingredienti": "Latteeeeee",
+        "istruzioni": "non bestemmiare"
+    },
+    "Crema": {
+        "nome": "Crema",
+        "ingredienti": "Latte, uova, farina, pazienza",
+        "istruzioni": "mescolare bene"
+    }
+}

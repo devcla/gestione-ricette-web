@@ -1,4 +1,12 @@
 {
-    "admin": "password",
-    "claudio": "scimmia"
+    "pippo": {
+        "username": "pippo",
+        "email": "pippo@tubo.it",
+        "password": "1234"
+    },
+    "minni": {
+        "username": "minni",
+        "email": "minni@topo.en",
+        "password": "1234"
+    }
 }
